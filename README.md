@@ -70,7 +70,7 @@ The workflow includes **data exploration, feature selection, model training, hyp
 ---
 
 ## 📂 Files
-- `breast_cancer_classification.py` or `breast_cancer_classification.ipynb` → Full code implementation.  
+- `Breast Cancer Classification Using SVM And KNN.ipynb` → Full code implementation.  
 - `README.md` → Project documentation.  
 
 ---
@@ -83,9 +83,8 @@ The workflow includes **data exploration, feature selection, model training, hyp
 
 ---
 
-## 🙋 Author
-**Mohamed Elsayed**  
-Machine Learning Engineer  
+##  Author
+**Mohamed Elsayed**   
 📧 [mohameddelsayed177@gmail.com](mailto:mohameddelsayed177@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)  
+
 
